@@ -208,6 +208,7 @@ body{
     height: 170px;
     width: 170px;
     max-width: 100%;
+    margin-top: 20px;
   }
   .heading{
     color: #147efb;
