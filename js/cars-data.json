@@ -1,0 +1,645 @@
+[
+    {
+        "mark": "Kia",
+        "models": [
+            {
+                "model": "Picanto",
+                "color": "Jaune",
+                "codeColor": "#f6e51e",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 140,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/picanto.webp"
+            },
+            {
+                "model": "Sonet",
+                "color": "Noir",
+                "codeColor": "#000000",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "SUV & 4x4",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/sonet.webp"
+            },
+            {
+                "model": "Sportage",
+                "color": "Rouge",
+                "codeColor": "#ff4e3e",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/spartage.webp"
+            },
+            {
+                "model": "Seltos",
+                "color": "Bleu",
+                "codeColor": "#0b79f6",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "SUV & 4x4",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/seltos.webp"
+            },
+            {
+                "model": "Sorento",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": 7,
+                "price": 180,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/sorento.webp"
+            },
+            {
+                "model": "Niro",
+                "color": "Vert",
+                "codeColor": "#11b990",
+                "fuel": "Hybride",
+                "automatic": true,
+                "category": "Hybride et \u00c9lectrique",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/niro.webp"
+            },
+            {
+                "model": "Sorento hybrid",
+                "color": "Blanc",
+                "codeColor": "#ffffff",
+                "fuel": "Hybride",
+                "automatic": true,
+                "category": "Hybride et \u00c9lectrique",
+                "seats": 7,
+                "price": 180,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/sorento.webp"
+            },
+            {
+                "model": "Carens",
+                "color": "Noir",
+                "codeColor": "#000000",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "Familiale",
+                "seats": 7,
+                "price": 180,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/carens.webp"
+            },
+            {
+                "model": "Carnival",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "Familiale",
+                "seats": 8,
+                "price": 180,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/carnival.webp"
+            },
+            {
+                "model": "K2500 flatbed van",
+                "color": "Blanc",
+                "codeColor": "#ffffff",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 3,
+                "price": 340,
+                "doors": 2,
+                "year": 2020,
+                "link": "images\/k2500.webp"
+            },
+            {
+                "model": "K2500 L2H2",
+                "color": "Blanc",
+                "codeColor": "#ffffff",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 3,
+                "price": 340,
+                "doors": 2,
+                "year": 2020,
+                "link": "images\/k2500.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Dacia",
+        "models": [
+            {
+                "model": "Sandero BVM",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Essence",
+                "automatic": false,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 140,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/sandero.webp"
+            },
+            {
+                "model": "Sandero Streetway",
+                "color": "Bleu",
+                "codeColor": "#0b79f6",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 140,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/sandero.webp"
+            },
+            {
+                "model": "Duster",
+                "color": "Rouge",
+                "codeColor": "#ff4e3e",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/duster.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Citro\u00ebn",
+        "models": [
+            {
+                "model": "C Elysee",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Familiale",
+                "seats": 5,
+                "price": 240,
+                "doors": 4,
+                "year": 2019,
+                "link": "images\/C.webp"
+            },
+            {
+                "model": "C4",
+                "color": "Noir",
+                "codeColor": "#000000",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/c4.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Peugeot",
+        "models": [
+            {
+                "model": "208",
+                "color": "Bleu",
+                "codeColor": "#0b79f6",
+                "fuel": "Essence",
+                "automatic": false,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 210,
+                "doors": 5,
+                "year": 2019,
+                "link": "images\/208.webp"
+            },
+            {
+                "model": "308",
+                "color": "Rouge",
+                "codeColor": "#ff4e3e",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "Familiale",
+                "seats": 5,
+                "price": 290,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/308.webp"
+            },
+            {
+                "model": "Expert L1H1",
+                "color": "Blanc",
+                "codeColor": "#ffffff",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 3,
+                "price": 340,
+                "doors": 5,
+                "year": 2018,
+                "link": "images\/l1h1.webp"
+            },
+            {
+                "model": "Boxer L2H2",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 3,
+                "price": 400,
+                "doors": 5,
+                "year": 2019,
+                "link": "images\/l2h2.webp"
+            },
+            {
+                "model": "Boxer L3H2",
+                "color": "Blanc",
+                "codeColor": "#ffffff",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 3,
+                "price": 420,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/l3h2.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Fiat",
+        "models": [
+            {
+                "model": "Fullback",
+                "color": "Noir",
+                "codeColor": "#000000",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "Utilitaires",
+                "seats": 5,
+                "price": 380,
+                "doors": 4,
+                "year": 2021,
+                "link": "images\/fullback.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Toyota",
+        "models": [
+            {
+                "model": "Prado",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": 7,
+                "price": 640,
+                "doors": 5,
+                "year": 2022,
+                "link": "images\/prado.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Volkswagen",
+        "models": [
+            {
+                "model": "Touareg",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": 5,
+                "price": 180,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/touarg.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Honda",
+        "models": [
+            {
+                "model": "Civic",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 140,
+                "doors": 4,
+                "year": 2020,
+                "link": "images\/civic.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Renault",
+        "models": [
+            {
+                "model": "Trafic Combi 9Pax",
+                "color": "Blanc",
+                "codeColor": "#ffffff",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 9,
+                "price": 340,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/combi.webp"
+            },
+            {
+                "model": "Trafic Combi",
+                "color": "Bleu",
+                "codeColor": "#0b79f6",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "Utilitaires",
+                "seats": 5,
+                "price": 340,
+                "doors": 5,
+                "year": 2021,
+                "link": "images\/combi.webp"
+            }
+        ]
+    },
+    {
+        "mark": "IXAR",
+        "models": [
+            {
+                "model": "Geely Coolray Auto",
+                "color": "Silver",
+                "codeColor": "#969aa7",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": 5,
+                "price": 200,
+                "doors": 5,
+                "year": 2022,
+                "link": "images\/ixar.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Suzuki",
+        "models": [
+            {
+                "model": "Swift",
+                "color": "Rouge",
+                "codeColor": "#ff4e3e",
+                "fuel": "Essence",
+                "automatic": true,
+                "category": "Citadine et Compacte",
+                "seats": 5,
+                "price": 140,
+                "doors": 5,
+                "year": 2020,
+                "link": "images\/swift.webp"
+            },
+            {
+                "model": "Jimny",
+                "color": "Bleu",
+                "codeColor": "#0b79f6",
+                "fuel": "Diesel",
+                "automatic": false,
+                "category": "SUV & 4x4",
+                "seats": 4,
+                "price": 180,
+                "doors": 3,
+                "year": 2021,
+                "link": "images\/jimny.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Dacia",
+        "models": [
+            {
+                "model": "Logan",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "Hybride et \u00c9lectrique",
+                "seats": "6",
+                "price": "250",
+                "doors": "4",
+                "year": "2021",
+                "link": "images\/308.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Toyota",
+        "models": [
+            {
+                "model": "Rav4",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": "4",
+                "price": "340",
+                "doors": "5",
+                "year": "2020",
+                "link": "images\/208.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Ford",
+        "models": [
+            {
+                "model": "Fiesta",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": "4",
+                "price": "340",
+                "doors": "5",
+                "year": "2020",
+                "link": "images\/208.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Ford",
+        "models": [
+            {
+                "model": "Fiesta",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": "4",
+                "price": "340",
+                "doors": "5",
+                "year": "2020",
+                "link": "images\/208.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Ford",
+        "models": [
+            {
+                "model": "Fiesta",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": "4",
+                "price": "340",
+                "doors": "5",
+                "year": "2020",
+                "link": "images\/208.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Dacia",
+        "models": [
+            {
+                "model": "Logan",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "Hybride et \u00c9lectrique",
+                "seats": "6",
+                "price": "250",
+                "doors": "4",
+                "year": "2021",
+                "link": "images\/308.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Ford",
+        "models": [
+            {
+                "model": "Fiesta",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": "4",
+                "price": "340",
+                "doors": "5",
+                "year": "2020",
+                "link": "images\/208.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Toyota",
+        "models": [
+            {
+                "model": "Corolla",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "SUV & 4x4",
+                "seats": "6",
+                "price": "250",
+                "doors": "4",
+                "year": "2022",
+                "link": "images\/308.webp"
+            }
+        ]
+    },
+    {
+        "mark": "Opel",
+        "models": [
+            {
+                "model": "Corsa",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Essence",
+                "automatic": false,
+                "category": "Citadine et Compacte",
+                "seats": "5",
+                "price": "300",
+                "doors": "4",
+                "year": "2022",
+                "link": "images\/corsa.webp"
+            }
+        ]
+    },
+    {
+        "mark": "ToyoTa",
+        "models": [
+            {
+                "model": "Corolla",
+                "color": "Red",
+                "codeColor": "red",
+                "fuel": "Diesel",
+                "automatic": true,
+                "category": "Citadine et Compacte",
+                "seats": "6",
+                "price": "450",
+                "doors": "4",
+                "year": "2024",
+                "link": "images\/hada sghir.png"
+            }
+        ]
+    },
+    {
+        "mark": "Volzwagen",
+        "models": [
+            {
+                "model": "Golf 7",
+                "color": "Blanche",
+                "codeColor": "blanche",
+                "fuel": "Hybride",
+                "automatic": true,
+                "category": "Citadine et Compacte",
+                "seats": "6",
+                "price": "500",
+                "doors": "4",
+                "year": "2023",
+                "link": "images\/pngegg (3) (1).png"
+            }
+        ]
+    }
+]

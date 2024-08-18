@@ -1,0 +1,135 @@
+/*default values*/
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  --mainColor : #0473e9;
+  --mainShadeLight: #deeefe;
+  --infoColor: #525355;
+  --infoBlueColor : #209ffe;
+  --mainShadeLight: #deeefe;
+  --bgSignUpColor: #f3f8fe;
+  --dangerColor: #ff4e3e;
+  --darkColor: #071d34;
+  --grayColor: #c9c9c9;
+  --borderColor: #f3f3f3;
+  --blackColor: #2d2e32;
+}
+ul{
+  list-style: none;
+}
+
+/* start navbar */
+.navbar{
+  border-bottom: #f3f3f3 solid 2px;
+  position: relative;
+}
+.logo{
+  color: var(--mainColor) !important;
+  font-weight: bold !important;
+}
+.nav-link:hover{
+  color: var(--mainColor) !important;
+}
+.navLink{
+  position: relative;
+}
+.navItem::before{
+  content: "";
+  width: 100%;
+  height: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0473e9;
+}
+nav{
+  box-shadow: 0 0 10px rgba(0,0,0,.09);
+}
+.nav-link{
+  color: var(--blackColor) !important;
+  font-weight: 600 !important;
+  font-size: 1.1rem !important;
+  transition: all 0.3s
+}
+.dropdown-toggle::after{
+  display: none !important;
+}
+.dropdown-item{
+  padding: 10px 20px !important;
+  cursor: pointer;
+}
+.downLabel{
+  display: flex;
+}
+.pdp img{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid var(--borderColor);
+  margin: 0;
+}
+.downLabel .userName{
+  margin: 0;
+  font-size: 14px;
+}
+.pdp{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+/* @media(max-width: 992px){
+  .dropdown{
+    right: -152px;
+  }
+} */
+.userMenuLogged{
+  cursor: pointer;
+}
+.borderCreer{
+  border-bottom: 2px var(--borderColor) solid;
+}
+/* .dropdown li{
+  padding: 10px 20px;
+  margin-bottom: 5px;
+} */
+.down{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+@media(max-width: 1400px){
+  .down{
+    gap: 3px;
+    
+  }
+  .downLabel{
+    display: none;
+  }
+}
+.iconBar{
+  border: 1px solid #c9c9c9;
+  padding: 5px 13px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ff{
+  font-size: 12px !important;
+  color: var(--infoColor);
+  text-align: center;
+}
+.dropIcon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-fluid{
+  --bs-gutter-x:6.5rem !important;
+}
+/* end navbar */
